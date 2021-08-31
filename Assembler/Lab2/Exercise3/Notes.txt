@@ -1,0 +1,10 @@
+get the standard handle for the input
+returns an address that is in eax
+store that address in a variable called inputHandle
+call the ReadConsole function
+Takes in 5 parameters
+1. the handle for the standard input
+2. a pointer to a buffer that the data read into will be put into
+3. number of characters to be read
+4. a pointer to a variable that will store the amount of characters read in
+5. control character to signify end of string but can be left as null

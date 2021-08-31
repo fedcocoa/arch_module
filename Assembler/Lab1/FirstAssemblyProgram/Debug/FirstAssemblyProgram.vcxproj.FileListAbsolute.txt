@@ -1,0 +1,2 @@
+C:\Users\rohan\OneDrive - Cardiff University\cm1205-ArchOS\Assembler\Lab1\FirstAssemblyProgram\Debug\FirstAssemblyProgram.exe
+C:\Users\rohan\OneDrive - Cardiff University\cm1205-ArchOS\Assembler\Lab1\FirstAssemblyProgram\Debug\FirstAssemblyProgram.pdb

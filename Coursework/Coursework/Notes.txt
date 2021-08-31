@@ -1,0 +1,15 @@
+!get out handle
+!use writeconsole to print out string
+!get input handle
+!use readconsole to get input from user
+!store the choice somewhere
+!compare against f or h
+-use writeconsole to ask user for the temperature
+-store the temperature somewhere
+-convert the temperature from ascii to hex
+-store the value somewhere
+-jump to the appropriate area
+-convert the temperature with the formula given
+-use writeconsole to write the first bit e.g "converted value: "
+-convert the temperature back to ascii
+-use writeconsole to write the temperature

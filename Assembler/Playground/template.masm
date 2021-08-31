@@ -1,0 +1,19 @@
+.586
+.model flat, stdcall
+option casemap :none
+.stack 4096
+ExitProcess proto,dwExitCode:dword
+
+.data	
+	
+	
+.code
+main proc
+	
+	
+	
+finish:
+	invoke ExitProcess,0
+main endp
+
+end main
